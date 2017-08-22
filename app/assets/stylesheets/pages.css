@@ -25,10 +25,11 @@ body {
 
 #email-text {
     font-family: Verdana, Geneva, sans-serif;
+    font-weight: lighter;
     color: #414141;
 	position: fixed;
 	top: 68%;
-	left: 50%;
+	left: 52%;
 	margin-top: -50px;
 	margin-left: -100px;
 }
@@ -58,3 +59,4 @@ a:hover {
 a:active {
     color: blue;
 }
+
