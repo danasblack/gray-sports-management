@@ -1,0 +1,60 @@
+body {
+  background: #ffffff; /* fallback for old browsers */
+
+}
+
+#logo-image {
+	height: 350px;
+	width: 350px;
+	position: fixed;
+	top: 10%;
+	left: 46%;
+	margin-top: -50px;
+	margin-left: -100px;
+}
+
+#logo-title {
+	height: 100px;
+	width: 400px;
+	position: fixed;
+	top: 50%;
+	left: 44%;
+	margin-top: -50px;
+	margin-left: -100px;
+}
+
+#email-text {
+    font-family: Verdana, Geneva, sans-serif;
+    color: #414141;
+	position: fixed;
+	top: 68%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -100px;
+}
+
+a {
+    color: #414141;
+}
+
+/* unvisited link */
+a:link {
+    color: #414141;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover {
+    color: #414141;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
