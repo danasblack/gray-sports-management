@@ -11,17 +11,17 @@ p {
 }
 
 #logo-image {
-	height: 350px;
+	height: 300px;
 	width: 350px;
 	position: fixed;
-	top: 10%;
+	top: 20%;
 	left: 44%;
 	margin-top: -50px;
 	margin-left: -100px;
 }
 
 #logo-title {
-	height: 100px;
+	height: 90px;
 	width: 400px;
 	position: fixed;
 	top: 50%;
@@ -35,7 +35,7 @@ p {
     font-weight: lighter;
     color: #414141;
 	position: fixed;
-	top: 68%;
+	top: 63%;
 	left: 50%;
 	margin-top: -50px;
 	margin-left: -100px;
