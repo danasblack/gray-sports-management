@@ -15,4 +15,4 @@
 //= require turbolinks
 //= require_tree .
 
-document.title = "Gray Area Sports Management";
+document.title = "Gray Area Sports Group";
