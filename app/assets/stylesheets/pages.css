@@ -25,7 +25,9 @@ body {
 
 
 #logo-image {
-
+    height: 352px;
+	width: 410px;
+	position: absolute;
 }
 
 
