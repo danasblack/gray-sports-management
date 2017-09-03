@@ -12,7 +12,15 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery 
+//= require bootstrap-sprockets
 //= require turbolinks
 //= require_tree .
 
 document.title = "Gray Area Sports Group";
+
+
+function myFunction(x) {
+    x.classList.toggle("change");
+}
+
